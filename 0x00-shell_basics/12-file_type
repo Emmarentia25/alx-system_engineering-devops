@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/iamafile printf
+/tmp/iamafile printf "%f/n" 
